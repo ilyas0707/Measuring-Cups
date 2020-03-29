@@ -20,3 +20,4 @@ linear_extrude(0.5)
 translate([4.2,0.8,4.2])
 resize(newsize=[7   ,7,0]) import(file = "alatoo.svg", center = true, dpi = 96);
 }
+
