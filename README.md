@@ -25,7 +25,7 @@ Providing a consistent dining experience depends on creating a consistent produc
 
 ![Image of project](https://github.com/ilyas0707/Measuring-Cups/blob/master/images/1_4cup.png)
 
-How we worked on cup project:
+How we worked on cups project:
 
 ![Image of project](https://github.com/ilyas0707/Measuring-Cups/blob/master/images/work1.png)
 ![Image of project](https://github.com/ilyas0707/Measuring-Cups/blob/master/images/work2.png)
